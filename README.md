@@ -2,7 +2,7 @@
 
 Slack Streaming Client
 
-![](http://go-gyazo.appspot.com/f37a27f484521cc0.png)
+![](https://raw.githubusercontent.com/mattn/slck/master/screenshot.png)
 
 ## Notice
 
